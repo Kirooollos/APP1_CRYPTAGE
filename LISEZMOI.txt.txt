@@ -1,0 +1,7 @@
+Noms de binome:
+Hussein Omar Samy Ahmed
+Attia Kirollos
+
+P.S: -ProjetX fait le decryptage tandis que client-projetX valide ProjetX
+     - planB validé par nous deux.
+
